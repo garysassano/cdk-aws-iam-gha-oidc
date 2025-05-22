@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+dist/
+lib/
+logs/
+*.log
+*.tsbuildinfo
+cdk.context.json
+cdk.out/
+.cdk.staging/
